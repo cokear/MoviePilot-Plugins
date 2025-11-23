@@ -19,7 +19,7 @@
     "version": "2.5.4",
     "icon": "https://raw.githubusercontent.com/madrays/MoviePilot-Plugins/main/icons/fnos.ico",
     "author": "madrays",
-    "level": 2,
+    "level": 1,
     "v2": true,
     "history": {
       "v2.5.4": "尝试解决0点签到卡住（尽量还是别设置0点签到，暂时无法验证是否解决）",
